@@ -57,7 +57,7 @@ form{text-align: center;
 .cadastro2 p{position: absolute;
              bottom: -9px;    
             left: 55px; 
-              }         
+             color: red; }         
 main{max-width: 1300px;
      min-width: 360px;   }   
  
