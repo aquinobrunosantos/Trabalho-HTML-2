@@ -29,7 +29,8 @@ h1{position: absolute;
     background-color: rgba(222, 184, 135, 0.582);
     border-radius:15px ;
     padding: 10px;
-    width: 80px;}           
+    width: 80px;
+    height: 20px;}           
 .im{
     position: absolute; 
     top: 0px;
